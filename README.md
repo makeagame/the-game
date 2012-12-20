@@ -22,4 +22,4 @@ For the workspace, when we start developping it will have to be in htdocs folder
 * [Setting up external web server](https://wiki.appcelerator.org/display/tis/Setting+up+an+external+web+server+to+preview+PHP+and+other+non-HTML+pages )
 * [PHP dev in Aptana](https://wiki.appcelerator.org/display/tis/PHP+Development)
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
-///////
+///
