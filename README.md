@@ -1,6 +1,6 @@
 #Setup
 
-1. Create github account (send me the username so I can add you to the project as owner)
+1. Create github account (send me the username so I can add you to the project as owner). No need to setup repositories or git.
 
 2. Install [Aptana Studio 3](http://aptana.com/) (extract wherever)
 
