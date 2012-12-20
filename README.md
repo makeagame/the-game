@@ -1,13 +1,13 @@
 #Setup
 
-1.   Create github account (send me the username so I can add you to the project as collaborator) **REMINDER: I need to create organization account**
+1. Create github account (send me the username so I can add you to the project as owner)
 
-2. 	Install [Aptana Studio 3](http://aptana.com/) (extract wherever)
+2. Install [Aptana Studio 3](http://aptana.com/) (extract wherever)
 
-3. 	Generate sshkey and add to your github account. See: [generating keys](https://help.github.com/articles/generating-ssh-keys)  
+3. Generate sshkey and add to your github account. See: [generating keys](https://help.github.com/articles/generating-ssh-keys)  
 	**IMPORTANT**: Make a backup of your ~/.ssh/id_rsa and ~/.ssh/id_rsa.pub They are your keys. id_rsa	is the private one, don't share it with others, id_rsa.pub is public, you can share it. Leave them both in the ~/.ssh folder, Aptana will look for them there.
 
-4.	In Aptana, import project, address is `git@github.com:ghmaz/the-game.git` 
+4.	In Aptana, import project, address is `git@github.com:makeagame/the-game.git` 
 For the workspace, when we start developping it will have to be in htdocs folder of the server installation (XAMPP) for deployment. See: [Setting up external server to preview PHP](https://wiki.appcelerator.org/display/tis/Setting+up+an+external+web+server+to+preview+PHP+and+other+non-HTML+pages). For now it doesn't really matter.
 	
 5.	In Aptana, in the App Explorer tab, you will see blue cog wheels. This is the button to use Git.
