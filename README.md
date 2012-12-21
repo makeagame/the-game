@@ -25,4 +25,5 @@ For the workspace, when we start developping it will have to be in `htdocs` fold
 * [Setting up external web server](https://wiki.appcelerator.org/display/tis/Setting+up+an+external+web+server+to+preview+PHP+and+other+non-HTML+pages )
 * [PHP dev in Aptana](https://wiki.appcelerator.org/display/tis/PHP+Development)
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
+* [Designer's guide to git](http://www.sitepoint.com/the-designers-guide-to-git-or-how-i-learned-to-stop-worrying-and-love-the-repository/)
 
