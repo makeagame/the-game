@@ -10,7 +10,7 @@
 	**IMPORTANT**: Make a backup of your ~/.ssh/id_rsa and ~/.ssh/id_rsa.pub They are your keys. id_rsa	is the private one, don't share it with others, id_rsa.pub is public, you can share it. Leave them both in the ~/.ssh folder, Aptana will look for them there.
 
 5.	In Aptana, import project (from git repo), URI is `git@github.com:makeagame/the-game.git` 
-For the workspace, when we start developping it will have to be in htdocs folder of the server installation (XAMPP) for deployment. See: [Setting up external server to preview PHP](https://wiki.appcelerator.org/display/tis/Setting+up+an+external+web+server+to+preview+PHP+and+other+non-HTML+pages). For now it doesn't really matter.
+For the workspace, when we start developping it will have to be in `htdocs` folder of the server installation (XAMPP) for deployment. See: [Setting up external server to preview PHP](https://wiki.appcelerator.org/display/tis/Setting+up+an+external+web+server+to+preview+PHP+and+other+non-HTML+pages). For now it doesn't really matter.
 	
 6.	In Aptana, in the App Explorer tab, you will see blue cog wheels. This is the button to use Git.
 	* To get latest files from the repository, use ***pull***
