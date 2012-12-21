@@ -8,7 +8,7 @@
 
 4. Generate sshkey and add to your github account. See: [generating keys](https://help.github.com/articles/generating-ssh-keys)  
 	**IMPORTANT**: Make a backup of your ~/.ssh/id_rsa and ~/.ssh/id_rsa.pub They are your keys. id_rsa	is the private one, don't share it with others, id_rsa.pub is public, you can share it. Leave them both in the ~/.ssh folder, Aptana will look for them there.  
-	???If you don't want to have to give your passkey for each push or pull, <del>run `ssh-agent` and</del> `ssh-add` from the terminal. (ssh-add will ask passphrase and remember it (until next reboot?)
+	???If you don't want to have to give your passkey for each push or pull, run <del>`ssh-agent` and</del> `ssh-add` from the terminal. (ssh-add will ask passphrase and remember it (until next reboot?)
 
 5.	In Aptana, import project (from git repo), URI is `git@github.com:makeagame/the-game.git` 
 For the workspace, when we start developping it will have to be in `htdocs` folder of the server installation (XAMPP) for deployment. See: [Setting up external server to preview PHP](https://wiki.appcelerator.org/display/tis/Setting+up+an+external+web+server+to+preview+PHP+and+other+non-HTML+pages). For now it doesn't really matter.
