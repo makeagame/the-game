@@ -26,4 +26,4 @@ For the workspace, when we start developping it will have to be in `htdocs` fold
 * [PHP dev in Aptana](https://wiki.appcelerator.org/display/tis/PHP+Development)
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
 * [Designer's guide to git](http://www.sitepoint.com/the-designers-guide-to-git-or-how-i-learned-to-stop-worrying-and-love-the-repository/)
-
+* [Games on the web](http://12devsofxmas.co.uk/post/2012-12-26-day-1-the-future-of-games-on-the-web)
